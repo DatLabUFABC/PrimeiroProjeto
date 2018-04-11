@@ -14,6 +14,8 @@ Inteligência Artificial
 - machine learning
 - Bots 
 
+
+Agradecimentos a Jessica Temporal pelo direcionamento
 Referências:
 https://github.com/leportella/datascience-pizza
 https://github.com/jtemporal
